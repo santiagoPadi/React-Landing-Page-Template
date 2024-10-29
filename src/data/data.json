@@ -1,184 +1,147 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Faraday Energía Renovable Accesible para Todos",
+    "paragraph": "Impulsando comunidades rurales y urbanas hacia la autosuficiencia energética con soluciones solares y eólicas asequibles."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "En Faraday, creemos en un mundo donde el acceso a la energía limpia y sostenible es un derecho, no un privilegio. Nuestra misión es proporcionar sistemas domésticos asequibles de energía solar y eólica",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Zonas rurales",
+      "Casas de alto consumo",
+      "Conjuntos Residenciales",
+      "Edificios Empresariales"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Universidades",
+      "Centros Comerciales",
+      "Granjas",
+      "Constructoras"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "",
+      "largeImage": "img/portfolio/01.webp",
+      "smallImage": "img/portfolio/01.webp"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "",
+      "largeImage": "img/portfolio/02.webp",
+      "smallImage": "img/portfolio/02.webp"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "",
+      "largeImage": "img/portfolio/03.webp",
+      "smallImage": "img/portfolio/03.webp"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "",
+      "largeImage": "img/portfolio/04.webp",
+      "smallImage": "img/portfolio/04.webp"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "",
+      "largeImage": "img/portfolio/05.webp",
+      "smallImage": "img/portfolio/05.webp"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "",
+      "largeImage": "img/portfolio/06.webp",
+      "smallImage": "img/portfolio/06.webp"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "",
+      "largeImage": "img/portfolio/07.webp",
+      "smallImage": "img/portfolio/07.webp"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "title": "",
+      "largeImage": "img/portfolio/08.webp",
+      "smallImage": "img/portfolio/08.webp"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "",
+      "largeImage": "img/portfolio/09.webp",
+      "smallImage": "img/portfolio/09.webp"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-bolt",
+      "name": "Solucion a cortes o apagones",
+      "text": "Con nuestras soluciones de energía renovable, olvídate de los inconvenientes causados por cortes o apagones eléctricos."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-building",
+      "name": "Independencia Energetica a grandes construcciones",
+      "text": "frecemos soluciones personalizadas para edificios comerciales, industriales y residenciales de gran tamaño que buscan independencia energética."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-globe",
+      "name": "Proveedor de gran volumen para la comunidad",
+      "text": "Como proveedor de gran volumen, colaboramos con comunidades y organizaciones para implementar proyectos de energía renovable que benefician a múltiples hogares."
     }
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Instalé Faraday en mi apartamento y mi factura eléctrica se redujo un 60%. ¡Es una inversión que vale la pena!\"",
+      "name": "Carlos Pérez, Medellín"
     },
     {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Gracias a Faraday, ahora mis hijos pueden estudiar en casa después del anochecer. Nuestra vida ha cambiado para mejor.\"",
+      "name": "William Diaz, La Calera"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Instalar Faraday fue sencillo y el equipo fue muy profesional. Ahora, mi negocio es más sostenible y los clientes aprecian nuestro compromiso con la energía verde.\"",
+      "name": "Miguel Ángel Vendedor en Cartagena"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"La instalación de Faraday en nuestra casa ha sido una de las mejores decisiones que hemos tomado. Ahora no solo ahorramos en la factura de luz, sino que también aportamos al cuidado del planeta.\"",
+      "name": "Andrea Morales, Diseñadora Gráfica en Bogotá"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Como joven agricultor, necesitaba una solución confiable para mantener mis equipos funcionando. Faraday me proporcionó exactamente eso. Ahora puedo trabajar sin interrupciones y con energía limpia.\"",
+      "name": "Luis Fernández, Agricultor en el Cundinamarca"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    }
-  ],
-  "Team": [
-    {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
-    },
-    {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "text": "\"Me encanta saber que la energía que utilizo proviene de fuentes renovables. Gracias a Faraday, estoy más consciente de mi consumo y siento que aporto un granito de arena al medio ambiente.\"",
+      "name": "Camila Rodríguez, Programadora en Bogotá"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "carrera 15 #133 -35, Bogotá, COlombia",
+    "phone": "+57 321 316 7575",
+    "email": "info@farady.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-leaf",
+      "title": "Acceso a Energía Limpia",
+      "text": "Reduce tu huella de carbono y contribuye al cuidado del medio ambiente."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-university",
+      "title": "Ahorro Económico",
+      "text": "Disminuye tus facturas de electricidad y libera recursos para otras necesidades familiares."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-bolt",
+      "title": "Autosuficiencia Energética",
+      "text": "Genera tu propia energía y reduce la dependencia de proveedores tradicionales."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-headphones",
+      "title": "Soporte Integral",
+      "text": "Te acompañamos en cada paso, desde la asesoría inicial hasta el servicio postventa."
     }
   ]
 }

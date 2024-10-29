@@ -8,8 +8,8 @@ export const Gallery = (props) => {
         <div className="section-title">
           <h2>Gallery</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Explora cómo Faraday transforma vidas con energía renovable en
+            nuestra galería de implementaciones.
           </p>
         </div>
         <div className="row">
