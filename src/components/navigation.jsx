@@ -17,8 +17,8 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <a className="navbar-brand page-scroll" href="#page-top">
-            Faraday
+          <a className="navbar-brand page-scroll" href="#page-top" style={{display: 'flex', alignItems:'center'}}>
+            <img src="img/icon.webp" style={{width:35, height: 35, borderRadius: 8, marginRight: 15}} />Faraday
           </a>{" "}
         </div>
 
