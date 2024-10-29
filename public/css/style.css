@@ -604,3 +604,9 @@ label {
     margin: 50px 0;
   }
 }
+
+@media (max-width: 568px) {
+  html {
+    width: 120% !important;
+  }
+}
